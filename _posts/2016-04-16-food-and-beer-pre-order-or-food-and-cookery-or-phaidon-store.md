@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-06T11:52:05.312Z'
+datePublished: '2016-08-31T08:17:35.421Z'
 sourcePath: >-
   _posts/2016-04-16-food-and-beer-pre-order-or-food-and-cookery-or-phaidon-store.md
 inFeed: true
@@ -18,7 +18,7 @@ keywords:
   - noma
 related: []
 author: []
-dateModified: '2016-07-06T11:52:04.726Z'
+dateModified: '2016-08-31T08:17:35.294Z'
 title: Food & Beer (Pre-order) | Food & Cookery | Phaidon Store
 app_links: []
 publisher:
@@ -33,6 +33,7 @@ description: >-
   of wine in fine dining.
 inLanguage: en
 inNav: false
+via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
