@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-06T11:52:05.297Z'
+datePublished: '2016-08-31T08:17:35.451Z'
 sourcePath: >-
   _posts/2016-04-16-bon-marche-san-francisco-usa-or-travel-or-wallpaper-magazin.md
 inFeed: true
@@ -21,7 +21,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-06T11:52:04.719Z'
+dateModified: '2016-08-31T08:17:35.325Z'
 title: 'Bon Marché, San Francisco, USA.'
 app_links: []
 publisher:
@@ -37,6 +37,7 @@ description: >-
   a flower shop that doubles as a stage for live jazz at night.
 inLanguage: en
 inNav: false
+via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
